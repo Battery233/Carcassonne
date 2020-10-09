@@ -1,0 +1,248 @@
+{
+  "type": "Tile list",
+  "tiles": [
+    {
+      "type": "A",
+      "left": "Field",
+      "right": "Field",
+      "up": "Field",
+      "down": "Road",
+      "center": "Monastery",
+      "coatOfArms": "false",
+      "quantity": 2
+    },
+    {
+      "type": "B",
+      "left": "Field",
+      "right": "Field",
+      "up": "Field",
+      "down": "Field",
+      "center": "Monastery",
+      "coatOfArms": "false",
+      "quantity": 4
+    },
+    {
+      "type": "C",
+      "left": "City",
+      "right": "City",
+      "up": "City",
+      "down": "City",
+      "center": "City",
+      "coatOfArms": "true",
+      "quantity": 1
+    },
+    {
+      "type": "D",
+      "left": "Field",
+      "right": "City",
+      "up": "Road",
+      "down": "Road",
+      "center": "Road",
+      "coatOfArms": "false",
+      "quantity": 4,
+      "init": "true"
+    },
+    {
+      "type": "E",
+      "left": "Field",
+      "right": "Field",
+      "up": "City",
+      "down": "Field",
+      "center": "Field",
+      "coatOfArms": "false",
+      "quantity": 5
+    },
+    {
+      "type": "F",
+      "left": "City",
+      "right": "City",
+      "up": "Field",
+      "down": "Field",
+      "center": "City",
+      "coatOfArms": "true",
+      "quantity": 2
+    },
+    {
+      "type": "G",
+      "left": "Field",
+      "right": "Field",
+      "up": "City",
+      "down": "City",
+      "center": "City",
+      "coatOfArms": "false",
+      "quantity": 1
+    },
+    {
+      "type": "H",
+      "left": "City",
+      "right": "City",
+      "up": "Field",
+      "down": "Field",
+      "center": "Field",
+      "coatOfArms": "false",
+      "quantity": 3,
+      "separatedCities": true
+    },
+    {
+      "type": "I",
+      "left": "Field",
+      "right": "City",
+      "up": "Field",
+      "down": "City",
+      "center": "Field",
+      "coatOfArms": "false",
+      "quantity": 2,
+      "separatedCities": true
+    },
+    {
+      "type": "J",
+      "left": "Field",
+      "right": "Road",
+      "up": "City",
+      "down": "Road",
+      "center": "Road",
+      "coatOfArms": "false",
+      "quantity": 3
+    },
+    {
+      "type": "K",
+      "left": "Road",
+      "right": "City",
+      "up": "Road",
+      "down": "Field",
+      "center": "Road",
+      "coatOfArms": "false",
+      "quantity": 3
+    },
+    {
+      "type": "L",
+      "left": "Road",
+      "right": "City",
+      "up": "Road",
+      "down": "Road",
+      "center": "Road",
+      "coatOfArms": "false",
+      "quantity": 3
+    },
+    {
+      "type": "M",
+      "left": "City",
+      "right": "Field",
+      "up": "City",
+      "down": "Field",
+      "center": "Field",
+      "coatOfArms": "true",
+      "quantity": 2
+    },
+    {
+      "type": "N",
+      "left": "City",
+      "right": "Field",
+      "up": "City",
+      "down": "Field",
+      "center": "Field",
+      "coatOfArms": "false",
+      "quantity": 3
+    },
+    {
+      "type": "O",
+      "left": "City",
+      "right": "Road",
+      "up": "City",
+      "down": "Road",
+      "center": "Road",
+      "coatOfArms": "true",
+      "quantity": 2
+    },
+    {
+      "type": "P",
+      "left": "City",
+      "right": "Road",
+      "up": "City",
+      "down": "Road",
+      "center": "Road",
+      "coatOfArms": "false",
+      "quantity": 3
+    },
+    {
+      "type": "Q",
+      "left": "City",
+      "right": "City",
+      "up": "City",
+      "down": "Field",
+      "center": "City",
+      "coatOfArms": "true",
+      "quantity": 1
+    },
+    {
+      "type": "R",
+      "left": "City",
+      "right": "City",
+      "up": "City",
+      "down": "Field",
+      "center": "City",
+      "coatOfArms": "false",
+      "quantity": 3
+    },
+    {
+      "type": "S",
+      "left": "City",
+      "right": "City",
+      "up": "City",
+      "down": "Road",
+      "center": "City",
+      "coatOfArms": "true",
+      "quantity": 2
+    },
+    {
+      "type": "T",
+      "left": "City",
+      "right": "City",
+      "up": "City",
+      "down": "Road",
+      "center": "City",
+      "coatOfArms": "false",
+      "quantity": 1
+    },
+    {
+      "type": "U",
+      "left": "Field",
+      "right": "Field",
+      "up": "Road",
+      "down": "Road",
+      "center": "Road",
+      "coatOfArms": "false",
+      "quantity": 8
+    },
+    {
+      "type": "V",
+      "left": "Road",
+      "right": "Field",
+      "up": "Field",
+      "down": "Road",
+      "center": "Road",
+      "coatOfArms": "false",
+      "quantity": 9
+    },
+    {
+      "type": "W",
+      "left": "Road",
+      "right": "Road",
+      "up": "Field",
+      "down": "Road",
+      "center": "Road",
+      "coatOfArms": "false",
+      "quantity": 4
+    },
+    {
+      "type": "X",
+      "left": "Road",
+      "right": "Road",
+      "up": "Road",
+      "down": "Road",
+      "center": "Road",
+      "coatOfArms": "false",
+      "quantity": 1
+    }
+  ]
+}

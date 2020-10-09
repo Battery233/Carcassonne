@@ -1,0 +1,16 @@
+{
+  "type": "Tile list",
+  "tiles": [
+    {
+      "type": "D",
+      "left": "Field",
+      "right": "City",
+      "up": "Road",
+      "down": "Road",
+      "center": "Road",
+      "coatOfArms": "false",
+      "quantity": 4,
+      "init": "true"
+    }
+  ]
+}
